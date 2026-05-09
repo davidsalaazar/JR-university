@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <mysql>
+        <host>localhost</host>
+        <database>usuario</database>
+        <user>davidsm54</user>
+        <password>solo54</password>
+    </mysql>
+</database>
